@@ -2,3 +2,4 @@
 
 ## Team Members
 Colten Lin cwl27381@uga.edu
+Audrey Djunaidi ad04585@uga.edu
