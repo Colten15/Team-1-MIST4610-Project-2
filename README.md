@@ -8,3 +8,7 @@
 
 
 ## Dataset Description
+
+Rows: 45,716
+Columns: 10
+Source: NASA
