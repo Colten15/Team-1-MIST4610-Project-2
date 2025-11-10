@@ -12,3 +12,14 @@
 Rows: 45,716
 Columns: 10
 Source: NASA
+Column Names:
+  Name
+  Id
+  Nametype
+  Recclass
+  Mass (G)
+  Fall
+  Year
+  Reclat
+  Reclong
+  Geo Location
