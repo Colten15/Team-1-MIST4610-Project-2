@@ -39,13 +39,15 @@ Column Names:
   
   Geo Location: the exact geolocation where the meteorite was found
 
-“How has the number and mass of recorded meteorite landings changed over time?”
+  Questions:
+
+How has the number and mass of recorded meteorite landings changed over time?
 
 Why it’s important:
 Understanding how meteorite landings and their masses have changed over time helps reveal both scientific and observational trends. It can show whether meteorite activity has fluctuated across different decades or whether improvements in detection technology and record-keeping have influenced the number of documented landings. This question provides valuable historical context about how human observation and meteorite patterns intersect, helping researchers understand whether we’re truly seeing changes in meteorite activity or simply changes in how we record them.
 
 
-“How has the number and mass of recorded meteorite landings changed over time?”
+How has the number and mass of recorded meteorite landings changed over time?
 
 Why it’s important:
 Understanding how meteorite landings and their masses have changed over time helps reveal both scientific and observational trends. It can show whether meteorite activity has fluctuated across different decades or whether improvements in detection technology, population density, and record-keeping have influenced the number of documented landings. This question provides valuable historical context about how human observation and meteorite activity interact, helping researchers distinguish between natural variation and observational bias.
