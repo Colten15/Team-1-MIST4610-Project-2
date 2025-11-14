@@ -5,6 +5,7 @@
 2. Audrey Djunaidi ad04585@uga.edu
 3. Claire Woehrman ctw49810@uga.edu
 4. Max Trinh mlt22305@uga.edu
+5. Nayan Magdum nm37036@uga.edu
 
 
 ## Dataset Description
