@@ -48,5 +48,8 @@ How has the number and mass of recorded meteorite landings changed over time?
 Why it’s important:
 Understanding how meteorite landings and their masses have changed over time helps reveal both scientific and observational trends. It can show whether meteorite activity has fluctuated across different decades or whether improvements in detection technology and record-keeping have influenced the number of documented landings. This question provides valuable historical context about how human observation and meteorite patterns intersect, helping researchers understand whether we’re truly seeing changes in meteorite activity or simply changes in how we record them.
 
+Can we predict which regions are most likely to experience future meteorite landings?
 
+Why it’s important:
+Predicting regions that are more likely to experience future meteorite landings can help identify geographical patterns and environmental factors associated with meteorite impacts. By analyzing past landing coordinates (latitude and longitude), researchers can determine if certain regions are statistically more prone to meteorite occurrences. This has implications for scientific monitoring, public awareness, and risk preparedness. From an analytical perspective, this question also highlights how spatial data can be used to make meaningful geospatial predictions using visualization and trend analysis in Tableau.
 
