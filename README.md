@@ -64,9 +64,9 @@ In theory, we could manipulate the data to produce a new calculated field using 
 
 Based on the major 3 classifcations of Iron for recorded meteorite data, we organized them into the 3 to show frequency at which each type/composition are most comonly recorded. This data can be significant for developing the understanding of between fallen/found data, how types are depicted given a certain moment in time, and whether the location in which they are recorded have affect based on the atmospheric composition.
 
-## Implications of Analysis: 
+## Implications of Analysis
 
-The following implications on the Analysis of our data predict certain measures to the collected dataset that could be hindered by external factors, and have potential assumptions based on future viability of the data being visualized. 
+The following implications on the Analysis of our data predict certain measures to the collected dataset that could be hindered by external factors, and have potential assumptions based on future viability of the data being visualized:
 
 1. Because data is based on Regions, analysis could potentially vary due to developing nations and accessibility of investment into data collection for fallen/found meteorites.
 2. Predicted data on Age of found Meteorites that were recorded, change in technology and instruments used to track meteorites over time
