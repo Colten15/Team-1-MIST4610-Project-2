@@ -44,6 +44,10 @@ Column Names:
 
 ## Summary:
 
+This project explores NASA's Meteorite Landings dataset, which contains over 45,000 recorded meteorite events worldwide. The analysis focuses on identifying long-term trends in meteorite activity and uncovering spatial patterns that may inform future predictions. Using Tableau, the team visualized changes in the number and mass of meteorite landings over time, highlighting how both natural meteorite activity and improvements in scientific detection influence the historical record. Geographic visualizations were also used to examine regional concentration patterns, allowing the team to assess which areas of the world experience more frequent meteorite discoveries. 
+
+Beyond descriptive trends, the project explores how Tableau's geospatial tools and calculated fields can support predictive interpretation, such as grouping landings by region or classifying meteorites to understand composition-based patterns. The analysis also considers external factors that may impact data quality, including variations in reporting across countries, technological advancements in detection, and environmental effects on meteorite preservation. Overall, this project demonstrates how data visualization can reveal meaningful insights about meteorite behavior, historical scientific capability, and global patterns in natural phenomena.
+
 ## Questions:
 
 How has the number and mass of recorded meteorite landings changed over time?
