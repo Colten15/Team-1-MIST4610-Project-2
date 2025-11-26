@@ -42,7 +42,9 @@ Column Names:
   
   Geo Location: the exact geolocation where the meteorite was found
 
-  Questions:
+## Summary:
+
+## Questions:
 
 How has the number and mass of recorded meteorite landings changed over time?
 
